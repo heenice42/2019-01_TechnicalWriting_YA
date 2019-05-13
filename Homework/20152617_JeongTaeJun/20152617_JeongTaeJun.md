@@ -22,7 +22,7 @@
 
 대용량 데이터를 가지고 있으면 자료 관리 기술과 자료 분석 기술이 필요하다. 자료 관리 기술은 [Hadoop](https://namu.wiki/w/Hadoop) 등을 이용한다. 자료 분석 기술로는 [통계학](https://namu.wiki/w/%ED%86%B5%EA%B3%84%ED%95%99), [기계학습](https://namu.wiki/w/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5), [인공신경망](https://namu.wiki/w/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D), [데이터 마이닝](https://namu.wiki/w/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%88%EC%9D%B4%EB%8B%9D) 등을 이용한다.
 
-![image](./img/bigdata.png)
+![image](./img/bigdata.PNG)
 
 
 
